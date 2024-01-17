@@ -4,8 +4,28 @@
 ## Description:
 This project uses YouTube APIs to gather data on the most popular Chemistry-Based Channels on YouTube.  We analyze metrics like their view counts, subscriber counts, and video counts.  We explore what it takes to be a successful Chemistry Channel on YouTube.
 
+## Instructions for Running the Script:
+This project requires a YouTube API to wrangle the data.
+
+### Generate your own API key: 
+1. Login to https://console.cloud.google.com/ with your google account.  
+2. "Create Project" once logged in.  
+3. Click "Enable APIs and Services".
+4. Search for YouTube Data API v3. Click "enable" to **enable the API**.
+5. Now API key can be created. Go to "Credentials" and click "Create Credentials", choosing "API key".
+6. Copy the API key to be used in the next phase.
+
+### Create an environment variable:
+1. After cloning this project, run the following command in your terminal/local environment:
+- export GOOGLE_API_KEY = 'api_key_copied_from_step6'
+2. Ensure your API key was properly stored in the environment variable by running:
+- echo $GOOGLE_API_KEY - you should see your API key returned.
+
+The python script will now run as expected.  The script does not use so many API credits that you exceed the API quota for the day.
+
+
 ## Software Dependencies:
-This project uses YouTube APIs, and so requires Python version 3.9.
+Python version 3.9 is required when using YouTube APIs.
 
 ## Skills:
 Data Wrangling (via API technology), data cleaning, data analysis, data visualization, python code 
