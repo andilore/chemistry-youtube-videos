@@ -7,6 +7,9 @@ This project uses YouTube APIs to gather data from YouTube on the most popular C
 With more time, I might like to perform statistical tests to confirm the correlations seen and conclusions made.  
 I might also like to analyze view counts for The Organic Chemistry Tutor's videos **back in 2019** - _before_ the COVID-19 pandemic.  
 
+### Techniques highlighted:
+Coding with APIs, creating visualizations in Python, analyzing results.
+
 ## Instructions for Running the Script:
 This project requires a YouTube API to wrangle the data.
 
