@@ -2,7 +2,7 @@
 # Chemistry YouTube Channels + Vidoes
 
 ## Description:
-This project uses YouTube APIs to gather data on the most popular Chemistry-Based Channels on YouTube.  We analyze metrics like their view counts, subscriber counts, and video counts.  We explore what it takes to be a successful Chemistry Channel on YouTube.
+This project uses YouTube APIs to gather data from YouTube on the most popular Chemistry-Based Channels.  We analyze metrics like their view counts, subscriber counts, and video counts.  We explore what it takes to be a successful Chemistry Channel on YouTube.
 
 ## Instructions for Running the Script:
 This project requires a YouTube API to wrangle the data.
