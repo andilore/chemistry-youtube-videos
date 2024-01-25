@@ -1,14 +1,17 @@
 
 # Chemistry YouTube Channels + Vidoes
 
-## Description:
+## Description
 This project uses YouTube APIs to gather data from YouTube on the most popular Chemistry-Based Channels.  We analyze metrics like their view counts, subscriber counts, and video counts.  We explore what it takes to be a successful Chemistry Channel on YouTube.
 
 With more time, I might like to perform statistical tests to confirm the correlations seen and conclusions made.  
 I might also like to analyze view counts for The Organic Chemistry Tutor's videos **back in 2019** - _before_ the COVID-19 pandemic.  
 
 ### Techniques highlighted:
-Coding with APIs, creating visualizations in Python, analyzing results.
+- Data Wrangling via API Technology
+- Data Cleaning
+- Data Analysis & Visualization with Python
+- Drawing Insights & Conclusions
 
 ### Conclusions:
 - View count and Subscriber count show a strong positive correlation. Both are good indicators of channel popularity.
@@ -20,7 +23,7 @@ Note that these conclusions pertain to **Chemistry-based** YouTube channels.
 
 
 
-## Instructions for Running the Script:
+## Instructions for Running the Script
 This project requires a YouTube API to wrangle the data.
 
 ### Generate your own API key: 
@@ -40,16 +43,16 @@ This project requires a YouTube API to wrangle the data.
 The python script will now run as expected.  The script does not use so many API credits that you exceed the API quota for the day.
 
 
-## Software Dependencies:
+## Software Dependencies
 Python version 3.9 is required when using YouTube APIs.
 
-## Skills:
+## Skills
 Data Wrangling (via API technology), data cleaning, data analysis, data visualization, python code 
 
-## Technology:
+## Technology
 Python modules: Pandas, Matplotlib, Seaborn
 
-## Results:
+## Results
 Exploring key metrics for the most popular Chemistry-based channels on YouTube, to provide myself with wisdom, insight, and recommendations in the event I make my own Chemistry-based channel. 
 
 
