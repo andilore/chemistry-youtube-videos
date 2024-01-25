@@ -10,6 +10,16 @@ I might also like to analyze view counts for The Organic Chemistry Tutor's video
 ### Techniques highlighted:
 Coding with APIs, creating visualizations in Python, analyzing results.
 
+### Conclusions:
+View count and Subscriber count show a strong positive correlation. Both are good indicators of channel popularity.
+Video count is weakly correlated with number of views.  That is, the channels with the most videos are not necessarily the most popular channels, and vice versa.  
+The most popular Chemistry videos on YouTube are those that cover fundational topics in chemistry.
+The COVID-19 pandemic may have incentivized the most popular YT channels to keep publishing content after 2020.  That is, skyrocketing views upon school closures and the switch to online learning may have rewarded the "good" Chemistry Tutorial channels, thereby incentivizing them to keep creating content after 2020.
+
+Note that these conclusions pertain to **Chemistry-based** YouTube channels.
+
+
+
 ## Instructions for Running the Script:
 This project requires a YouTube API to wrangle the data.
 
